@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 21 Oct 2021 12:00:00 +0000
+Source: syncthing
+Architecture: source
+Version: 1.18.3-100
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ syncthing (1.18.3-100) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ 698f63ba91b27d26da25577393ce506aa934544b 1025 syncthing_1.18.3-100.dsc
+ eed852a637b9dd9c44cd881e803899d1fc210d3b 7146340 syncthing_1.18.3.orig.tar.xz
+ 593fe2cc2dacc41f4c91c155edd8ccd54a57bf9b 948 syncthing_1.18.3-100.debian.tar.xz
+ 424c012b9e590b9fccc68c70f63b7d64f3a4048c 4515 syncthing_1.18.3-100_source.buildinfo
+Checksums-Sha256:
+ d81ae8c19be8c4ccab4b91600133b20a71d88313c2d2ab55309f92d82aeeacd0 1025 syncthing_1.18.3-100.dsc
+ 3ba4ed5e2927490439cab71ab28873e2e87b481e81d68d51e9f5c42756fa3d5f 7146340 syncthing_1.18.3.orig.tar.xz
+ 36145544087d560ac66f349f278e648b5021ced2fb78343e7191eeb5bbd86b97 948 syncthing_1.18.3-100.debian.tar.xz
+ f2b1fbe8afba962ca2a0b3b42b59a94b3b08eb4182ed2664187d55f0f253d34e 4515 syncthing_1.18.3-100_source.buildinfo
+Files:
+ df7722e63a1f60406d77bbf267356c74 1025 utils optional syncthing_1.18.3-100.dsc
+ 9d0836ee8444b6926f43c8aba8e01c18 7146340 utils optional syncthing_1.18.3.orig.tar.xz
+ 815264c54e58934bf7b143b2099c59d8 948 utils optional syncthing_1.18.3-100.debian.tar.xz
+ 02eadf72c2e969a1f091bc6bc89b89ef 4515 utils optional syncthing_1.18.3-100_source.buildinfo
