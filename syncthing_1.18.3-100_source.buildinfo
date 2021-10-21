@@ -3,14 +3,14 @@ Source: syncthing
 Architecture: source
 Version: 1.18.3-100
 Checksums-Md5:
- df7722e63a1f60406d77bbf267356c74 1025 syncthing_1.18.3-100.dsc
+ e24ca69d8c29fa8c1152427791782fb3 1025 syncthing_1.18.3-100.dsc
 Checksums-Sha1:
- 698f63ba91b27d26da25577393ce506aa934544b 1025 syncthing_1.18.3-100.dsc
+ 6d3e4879061d579a5688d6d71f4adcca7bae1ba2 1025 syncthing_1.18.3-100.dsc
 Checksums-Sha256:
- d81ae8c19be8c4ccab4b91600133b20a71d88313c2d2ab55309f92d82aeeacd0 1025 syncthing_1.18.3-100.dsc
+ 5ecbf80b4a7f0f617c4655164d00663a132dde677aec2f1041dd94c3a41224c8 1025 syncthing_1.18.3-100.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Thu, 21 Oct 2021 09:31:15 +0000
+Build-Date: Thu, 21 Oct 2021 09:37:31 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
