@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui -i -d -S
 dpkg-buildpackage: info: source package syncthing
-dpkg-buildpackage: info: source version 1.18.3-100
+dpkg-buildpackage: info: source version 1.18.3-101
 dpkg-buildpackage: info: source distribution unstable
 dpkg-buildpackage: info: source changed by Package Store <kitsune.solar@gmail.com>
  dpkg-source -i --before-build .
@@ -12,14 +12,14 @@ dpkg-source: info: using source format '3.0 (quilt)'
 dpkg-source: info: building syncthing using existing ./syncthing_1.18.3.orig.tar.xz
 dpkg-source: warning: ignoring deletion of file syncthing, use --include-removal to override
 dpkg-source: warning: ignoring deletion of file syncthing@.service, use --include-removal to override
-dpkg-source: info: building syncthing in syncthing_1.18.3-100.debian.tar.xz
-dpkg-source: info: building syncthing in syncthing_1.18.3-100.dsc
+dpkg-source: info: building syncthing in syncthing_1.18.3-101.debian.tar.xz
+dpkg-source: info: building syncthing in syncthing_1.18.3-101.dsc
  dpkg-genbuildinfo --build=source
- dpkg-genchanges --build=source >../syncthing_1.18.3-100_source.changes
-dpkg-genchanges: info: including full source code in upload
+ dpkg-genchanges --build=source >../syncthing_1.18.3-101_source.changes
+dpkg-genchanges: info: not including original source code in upload
  dpkg-source -i --after-build .
-dpkg-buildpackage: info: full upload (original source is included)
-Now running lintian syncthing_1.18.3-100_source.changes ...
+dpkg-buildpackage: info: binary and diff upload (original source NOT included)
+Now running lintian syncthing_1.18.3-101_source.changes ...
 warning: running with root privileges is not recommended!
 E: syncthing source: source-is-missing syncthing
 W: syncthing source: maintainer-also-in-uploaders

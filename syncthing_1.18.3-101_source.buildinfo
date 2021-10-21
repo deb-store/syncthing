@@ -1,16 +1,16 @@
 Format: 1.0
 Source: syncthing
 Architecture: source
-Version: 1.18.3-100
+Version: 1.18.3-101
 Checksums-Md5:
- e24ca69d8c29fa8c1152427791782fb3 1025 syncthing_1.18.3-100.dsc
+ 1aece87e234d26727b6d973d07da9bd8 1025 syncthing_1.18.3-101.dsc
 Checksums-Sha1:
- 6d3e4879061d579a5688d6d71f4adcca7bae1ba2 1025 syncthing_1.18.3-100.dsc
+ f0918fb02d1b51beef0c0c504b30a75da9b41e7c 1025 syncthing_1.18.3-101.dsc
 Checksums-Sha256:
- 5ecbf80b4a7f0f617c4655164d00663a132dde677aec2f1041dd94c3a41224c8 1025 syncthing_1.18.3-100.dsc
+ 88fb29597b946ea2a0ff5b931f779d270b2777fe159cd5cc2177229989f31c03 1025 syncthing_1.18.3-101.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Thu, 21 Oct 2021 09:37:31 +0000
+Build-Date: Thu, 21 Oct 2021 09:51:15 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
@@ -161,4 +161,4 @@ Installed-Build-Depends:
  zlib1g (= 1:1.2.11.dfsg-2)
 Environment:
  DEB_BUILD_OPTIONS="parallel=2"
- SOURCE_DATE_EPOCH="1634817600"
+ SOURCE_DATE_EPOCH="1634820540"

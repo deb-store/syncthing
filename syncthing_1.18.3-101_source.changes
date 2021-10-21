@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 21 Oct 2021 12:49:00 +0000
+Source: syncthing
+Architecture: source
+Version: 1.18.3-101
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ syncthing (1.18.3-101) unstable; urgency=medium
+ .
+   * FIX: Systemd module.
+Checksums-Sha1:
+ f0918fb02d1b51beef0c0c504b30a75da9b41e7c 1025 syncthing_1.18.3-101.dsc
+ 67974a96f5761806c346a1a5c36a32e65f369dd9 964 syncthing_1.18.3-101.debian.tar.xz
+ fbf14279223f60c4ca3efc76467592abf2f66cf2 4515 syncthing_1.18.3-101_source.buildinfo
+Checksums-Sha256:
+ 88fb29597b946ea2a0ff5b931f779d270b2777fe159cd5cc2177229989f31c03 1025 syncthing_1.18.3-101.dsc
+ 1cf7f372558f938f89cf777190f6d056396014d1e6143881104e33348091f1b8 964 syncthing_1.18.3-101.debian.tar.xz
+ 20927aeae62d422c1fadee640fde1a9341b150ec663053f6df256513d0498692 4515 syncthing_1.18.3-101_source.buildinfo
+Files:
+ 1aece87e234d26727b6d973d07da9bd8 1025 utils optional syncthing_1.18.3-101.dsc
+ 38a76a928af8147a31b75682b40a414f 964 utils optional syncthing_1.18.3-101.debian.tar.xz
+ 5c53569e62bb2548d462e8cf06e87df4 4515 utils optional syncthing_1.18.3-101_source.buildinfo
