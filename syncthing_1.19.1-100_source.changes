@@ -15,14 +15,14 @@ Checksums-Sha1:
  f8db3ad6a796ebcd79df22137267a5b5b9c4693e 1028 syncthing_1.19.1-100.dsc
  221d6e0555caf4ebd29b9dbf611120288fcc75e2 7191712 syncthing_1.19.1.orig.tar.xz
  74043942fe4d7a1282abf7f2cb6e3f05b0337e13 1044 syncthing_1.19.1-100.debian.tar.xz
- fe4ed7500190df907379ff4e631b526f24b32ccd 4588 syncthing_1.19.1-100_source.buildinfo
+ f2ec63fc834f157d0a2c7e10aa1e9ff30e65962f 4604 syncthing_1.19.1-100_source.buildinfo
 Checksums-Sha256:
  f9590826cc87980e7b3056539bcf9d59fb844eda1855b461a15df71a3232aca3 1028 syncthing_1.19.1-100.dsc
  0885f29fd6f9166840711f3332140bfd442dfc6b7c48cddba2c1597a9b945d23 7191712 syncthing_1.19.1.orig.tar.xz
  51aa87896e4e1a84e89dbc7a2e6029557d9a1df3b0c0e52c573f6e5b1173210b 1044 syncthing_1.19.1-100.debian.tar.xz
- 7d865b0d61452046d4b2ce9f03183f3a79652738131c3c2c881656418d4676de 4588 syncthing_1.19.1-100_source.buildinfo
+ 1151cc79b96940fc9c19e2f83beddeae0efddda512dc74478153d0f981109e27 4604 syncthing_1.19.1-100_source.buildinfo
 Files:
  b0490f09e57dd2d930511fab183383db 1028 utils optional syncthing_1.19.1-100.dsc
  22afc0555b17a78d416713d2b76af555 7191712 utils optional syncthing_1.19.1.orig.tar.xz
  20ea4be2b3a6701dddf802537f6413ad 1044 utils optional syncthing_1.19.1-100.debian.tar.xz
- 356f48fad121ab66987d62da7a2357f7 4588 utils optional syncthing_1.19.1-100_source.buildinfo
+ e96cdf6c96f7757fdedac1e6d19ebd7e 4604 utils optional syncthing_1.19.1-100_source.buildinfo
