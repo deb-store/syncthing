@@ -3,8 +3,8 @@ Source: syncthing
 Binary: syncthing
 Architecture: amd64
 Version: 1.19.2-1000
-Maintainer: Package Store <kitsune.solar@gmail.com>
-Uploaders: Package Store <kitsune.solar@gmail.com>
+Maintainer: Package Store <pkgstore@mail.ru>
+Uploaders: Package Store <pkgstore@mail.ru>
 Homepage: https://syncthing.net
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-syncthing
@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  syncthing deb utils optional arch=amd64
 Checksums-Sha1:
- e26a5a72fc253e1a855b4c8e6fa1740dfd9620cb 7667840 syncthing_1.19.2.orig.tar.xz
- 1298093066e69bccea83c12c0b509a937e021c28 1064 syncthing_1.19.2-1000.debian.tar.xz
+ 49097fd5d311d2f521a5ece5d0eb508c32f668bd 7189304 syncthing_1.19.2.orig.tar.xz
+ a94952ecf76a31821c1b5b4f14f3607665543359 1064 syncthing_1.19.2-1000.debian.tar.xz
 Checksums-Sha256:
- e72b5216e1b71473492103e58ce6e6f7155d80f2d1fb962c8fc6f9627b6c965e 7667840 syncthing_1.19.2.orig.tar.xz
- b020e7f21296fb2fdb955e74d85803fd9bd787e8d33fe7a2cf0c2c394d8a7fd1 1064 syncthing_1.19.2-1000.debian.tar.xz
+ 2ef7af2fdce0d7791c499bd9b6589685a0940b4434a4cdcbd09edb29de5c6fd5 7189304 syncthing_1.19.2.orig.tar.xz
+ 681ac83cf199b74893ac626bb5c0d9a6a051f49b7a4e74cd69441852c23479aa 1064 syncthing_1.19.2-1000.debian.tar.xz
 Files:
- adb16ae7568a08572d06ddc616a293fd 7667840 syncthing_1.19.2.orig.tar.xz
- 439e1d7459cf824196cf6d65cfff0d50 1064 syncthing_1.19.2-1000.debian.tar.xz
+ e3a163bd3ebd9bd899267464dfa82493 7189304 syncthing_1.19.2.orig.tar.xz
+ 0776cd32d13c5752b67ccf61296e6338 1064 syncthing_1.19.2-1000.debian.tar.xz
